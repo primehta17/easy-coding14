@@ -1,4 +1,4 @@
-// write a function to determine ifa ggiven structure is Stalactite or Stalactite
+// write a function to determine ifa ggiven structure is Stalactite or Stalagmite
 
 function identifyStructure(structure) {
     for (let i = 0; i < structure.length; i++) {
